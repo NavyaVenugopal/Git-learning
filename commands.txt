@@ -14,3 +14,9 @@ git config --global user.email "youremail"
 git commands
 
 git init : To initialize the  git repository
+
+git status : list all untracked files
+
+git add -A : Adding all untracked files to staging area
+
+git commit -m "commit message" : staging area to localrepository 
