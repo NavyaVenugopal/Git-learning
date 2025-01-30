@@ -1,0 +1,16 @@
+GIT 
+
+To see git name and email
+
+git config --list
+
+Git account :
+
+git config --global user.name "yourname"
+
+git config --global user.email "youremail"
+
+ 
+git commands
+
+git init : To initialize the  git repository
