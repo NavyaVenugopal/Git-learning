@@ -20,3 +20,7 @@ git status : list all untracked files
 git add -A : Adding all untracked files to staging area
 
 git commit -m "commit message" : staging area to localrepository 
+
+git remote add origin remote_path : For adding remote repository (git hub created repository)
+
+git push origin master : for pushing local repository to remote repository (eg;vscode to github)
